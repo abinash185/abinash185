@@ -8,17 +8,16 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 👨‍💻 All of my projects are available at [https://abinash185.github.io/My-Portfolio/](https://abinash185.github.io/My-Portfolio/)
-
 - 💬 Ask me about **MERN , Frontend**
 
 - 📫 How to reach me **abinashkumar185@gmail.com**
 
-- 📄 Know about my experiences [https://abinash185.github.io/My-Portfolio/](https://abinash185.github.io/My-Portfolio/)
-
 - ⚡ Fun fact **I am Funny**
+- 
+- 👨‍💻 All of my projects are available at [https://abinash185.github.io/My-Portfolio/](https://abinash185.github.io/My-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/abinash-kumar-994544200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abinash-kumar-994544200/" height="30" width="40" /></a>
 <a href="https://instagram.com/avinashkumar8571/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avinashkumar8571/" height="30" width="40" /></a>
