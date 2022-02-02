@@ -12,8 +12,8 @@
 
 - 📫 How to reach me **abinashkumar185@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
-- 
+- ⚡ Fun fact **I spend 2-3 hours watching Netflix 😊 **
+
 - 👨‍💻 All of my projects are available at [https://abinash185.github.io/My-Portfolio/](https://abinash185.github.io/My-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
