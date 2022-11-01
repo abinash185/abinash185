@@ -47,5 +47,4 @@
 
 </div>
 
-![footer](https://github.com/abinash185/abinash185/blob/main/images/footer.png)
 
