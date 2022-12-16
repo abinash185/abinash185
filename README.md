@@ -37,8 +37,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinash185&" alt="abinash185" /></p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=abinash185&theme=react-dark&hide_border=true&area=true)
-
 <div align="center">
   
 [![@abinash185's Holopin board](https://holopin.me/abinash185)](https://holopin.io/@abinash185)
